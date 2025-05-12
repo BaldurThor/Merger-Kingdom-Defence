@@ -140,6 +140,8 @@ Krummi Poomi Gunnarsson - [Github](https://github.com/Poomi777) - poomi21@ru.is
 
 * [GodotEngine](https://godotengine.org/)
 * [Aseprite](https://www.aseprite.org/)
+* [Mixamo](https://www.mixamo.com/)
+* [Figma](https://www.figma.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
