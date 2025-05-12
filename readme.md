@@ -76,31 +76,6 @@ A wave defence rouge-like action-strategy game with a merging mechanic.
 ## Getting Started
 
 Running the game is simple, just download the latest release from the [Releases](https://github.com/BaldurThor/Merger-Kingdom-Defence/releases) section for your operating system.
-<br/>
-<br/>
-If you'd rather clone the repo and run the game like that, read on
-
-### Prerequisites
-
-You need Godot if you want to run the game without the provided executable.
-<br/>
-Refer to the [Godot official Github repo](https://github.com/godotengine/godot?tab=readme-ov-file#getting-the-engine)
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/BaldurThor/Merger-Game.git
-   ```
-2. Launch Godot
-3. Import the project for Godot<br/>
-   Insert picture of godot import thingy
-4. Select Run within Godot<br/>
-   Insert picture of the godot run thingy
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
