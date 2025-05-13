@@ -12,8 +12,6 @@
   <p align="center">
     <br />
     <br />
-    <a href="https://github.com/BaldurThor/Merger-Kingdom-Defence"><strong>Explore the thesis</strong></a>
-    &middot;
     <a href="https://github.com/BaldurThor/Merger-Kingdom-Defence/releases">Get The Game</a>
   </p>
 </div>
@@ -82,7 +80,7 @@ Running the game is simple, just download the latest release from the [Releases]
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Please see the [User guide](https://github.com/BaldurThor/Merger-Kingdom-Defence)
+Please see the [User guide](https://github.com/BaldurThor/Merger-Kingdom-Defence/blob/main/userguide.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
