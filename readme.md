@@ -52,7 +52,7 @@
 
 A game created in Godot as a final project for a Bachelor's thesis for Computer Science in [Reykjavík University](https://www.ru.is/)
 
-A wave defence rouge-like action-strategy game with a merging mechanic.
+A wave defense rouge-like action-strategy game with a merging mechanic.
 
 ### Inspirations
 
