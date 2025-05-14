@@ -75,7 +75,10 @@ A wave defense rouge-like action-strategy game with a merging mechanic.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Running the game is simple, just download the latest release from the [Releases](https://github.com/BaldurThor/Merger-Kingdom-Defence/releases) section for your operating system.
+Running the game is simple, just download the latest release from the [Releases](https://github.com/BaldurThor/Merger-Kingdom-Defence/releases) section for your operating system.<br/>
+Then run the executable.<br/>
+**Only** available on windows and linux.<br/>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
