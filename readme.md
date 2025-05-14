@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/BaldurThor/Merger-Game">
+  <a href="https://github.com/BaldurThor/Merger-Kingdom-Defence/releases">
     <img src="images/mkd-logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -48,7 +48,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![product-screenshot]
+<a href="https://github.com/BaldurThor/Merger-Kingdom-Defence/releases">
+  <img src="images/MergerKingdomDefenceThumbnail.png" alt="Product Screenshot">
+</a>
 
 A game created in Godot as a final project for a Bachelor's thesis for Computer Science in [Reykjavík University](https://www.ru.is/)
 
@@ -124,4 +126,3 @@ Krummi Poomi Gunnarsson - [Github](https://github.com/Poomi777) - poomi21@ru.is
 <!-- MARKDOWN LINKS & IMAGES -->
 [Godot.org]:  https://img.shields.io/badge/godotengine-white?style=for-the-badge&logo=godotengine
 [Godot-url]: https://godotengine.org/
-[product-screenshot]: images/MergerKingdomDefenceThumbnail.png
