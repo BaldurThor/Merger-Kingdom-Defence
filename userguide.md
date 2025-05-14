@@ -77,21 +77,21 @@ Within the settings menu you can change some things about how you interact with 
 
 #### Controls
 
-Withing the controls menu you can change the keybindings for the game.
+Within the controls menu you can change the keybindings for the game.
 ![screenshot-2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 #### Video
 
-Withing the video menu you can modify the graphics and looks of the game.
+Within the video menu you can modify the graphics and looks of the game.
 ![screenshot-3]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 #### Audio
 
-Withing the audio menu you have sliders for each audio group.
+Within the audio menu you have sliders for each audio group.
 ![screenshot-4]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
