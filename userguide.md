@@ -107,6 +107,7 @@ The how to play section gives a quick overview within the game about how to play
 
 Once you're in the game, you have control of your character.<br/>
 You move around using **WASD**<br/>
+You can hold down the **Shift** buton to sprint<br/>
 Move the camera around with **the mouse**<br/>
 Use **LMB** to attack, and the **scroll-wheel** to zoom in and out.<br/>
 You can select the units within the circle around the king with the **Q** button.<br/>
