@@ -13,6 +13,8 @@
     <br />
     <br />
     <a href="https://github.com/BaldurThor/Merger-Kingdom-Defence/releases">Get The Game</a>
+    &middot;
+    <a href="https://baldurthor.itch.io/merger-kingdom-defence">Itch.io</a>
   </p>
 </div>
 
