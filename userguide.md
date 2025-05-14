@@ -106,15 +106,21 @@ The how to play section gives a quick overview within the game about how to play
 ## Gameplay
 
 Once you're in the game, you have control of your character.<br/>
-You move around using WASD, and the mouse.<br/>
-Use LMB to attack and the scroll-wheel to zoom in and out.<br/>
-You can select the units within the circle around the king with the Q button.<br/>
-And then place them down with the E button.<br/>
+You move around using **WASD**<br/>
+Move the camera around with **the mouse**<br/>
+Use **LMB** to attack, and the **scroll-wheel** to zoom in and out.<br/>
+You can select the units within the circle around the king with the **Q** button.<br/>
+And then place them down with the **E** button.<br/>
+<br/>
+**This reference assumes that the default keybinds are in use**
+<br/>
+<br/>
+<br/>
 ![screenshot-14]
 
 ### Buy Menu
 
-To open the Buy menu press the "B" button, unless you have changed it within the settings menu.<br/>
+To open the Buy menu press the **B** button<br/>
 ![screenshot-6]
 <br/>
 Within the buy menu you can see your purchasable units, you can select them and buy them.<br/>
@@ -125,10 +131,10 @@ When you select a unit you can see the units stats and their cost.
 
 ### Merge Menu
 
-To open the Merge menu from the Buy menu, simply select it from the top pannel on the screen.<br/>
+To open the Merge menu from the **Buy Menu**, simply select it from the **top pannel** on the screen.<br/>
 ![screenshot-8]
 <br/>
-Within the Merge menu you will get a small window of your selected units<br/>
+Within the Merge Menu you will get a small window of your selected units<br/>
 You will also see the name of the unit your units will merge into.
 ![screenshot-9]
 Or a error message if they can't merge.
@@ -138,7 +144,7 @@ Or a error message if they can't merge.
 
 ### Sell Menu
 
-To open the Sell menu from the Buy menu, simply select it from the top pannel on the screen.<br/>
+To open the Sell Menu from the **Buy Menu**, simply select it from the **top pannel** on the screen.<br/>
 Since you can only have a limited amount of units at time, you can also sell your units for half of their price back.<br/>
 ![screenshot-11]
 
@@ -146,15 +152,16 @@ Since you can only have a limited amount of units at time, you can also sell you
 
 Enemies come at you in waves.<br/>
 Within the world you can see where they're coming from, from the red light beam with the skull on top.<br/>
-The first wave has to be manually called in with the TAB button.<br/>
+The first wave has to be manually called in with the **TAB** button.<br/>
 Each wave after the first will automatically be called in after amount of time.<br/>
-But they can always be called in early with the TAB button<br/>
+But they can always be called in early with the **TAB** button<br/>
 You gain money for both defeating enemies and after finishing the wave.
 ![screenshot-12]
 
 ### Buildings
 
 Buildings are an extra source of income, and they also allow you to have more units in your party.<br/>
+You can buy buildings by standing close to them and pressing the **V** button, assuming you have the money for it<br/>
 Enemies might target your buildings instead of you when they attack.<br/>
 If a building will get destroyed you will have to repair it to gain its benefits again.
 ![screenshot-13]
