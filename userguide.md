@@ -58,7 +58,7 @@ If you're on linux you might have to change the file to be executable.
 ```
 chmod 544 ./mkd.x86_64
 ```
-Then just run the executable.<br/>
+Then run the executable.<br/>
 **Only** available on windows and linux.<br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
