@@ -152,6 +152,7 @@ Since you can only have a limited amount of units at time, you can also sell you
 
 Enemies come at you in waves.<br/>
 Within the world you can see where they're coming from, from the red light beam with the skull on top.<br/>
+There is also a red indicator on the minimap which points towards enemies<br/>
 The first wave has to be manually called in with the **TAB** button.<br/>
 Each wave after the first will automatically be called in after amount of time.<br/>
 But they can always be called in early with the **TAB** button<br/>
