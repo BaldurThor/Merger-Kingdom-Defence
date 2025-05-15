@@ -102,7 +102,7 @@ This software may not be modified or redistributed in any way shape or form.
 <!-- CONTACT -->
 ## Contacts
 
-Baldur Þór Jónasson - [Linkedin](https://www.linkedin.com/in/baldur-%C3%BE%C3%B3r-j%C3%B3nasson-60836128b/) - baldurtj21@ru.is <br/>
+Baldur Þór Jónasson - [Github](https://github.com/BaldurThor) - [Linkedin](https://www.linkedin.com/in/baldur-%C3%BE%C3%B3r-j%C3%B3nasson-60836128b/) - baldurtj21@ru.is <br/>
 <br/>
 
 Bjarni Bærings Halldórsson - [Github](https://github.com/bjarnibaerings)- bjarnibh21@ru.is <br/>
