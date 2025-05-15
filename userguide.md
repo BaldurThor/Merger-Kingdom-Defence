@@ -133,7 +133,7 @@ When you select a unit you can see the units stats and their cost.
 
 ### Merge Menu
 
-To open the Merge menu from the **Buy Menu**, simply select it from the **top pannel** on the screen.<br/>
+To open the Merge menu from the **Buy Menu**, simply select it from the **top panel** on the screen.<br/>
 ![screenshot-8]
 <br/>
 Within the Merge Menu you will get a small window of your selected units<br/>
@@ -146,7 +146,7 @@ Or a error message if they can't merge.
 
 ### Sell Menu
 
-To open the Sell Menu from the **Buy Menu**, simply select it from the **top pannel** on the screen.<br/>
+To open the Sell Menu from the **Buy Menu**, simply select it from the **top panel** on the screen.<br/>
 Since you can only have a limited amount of units at time, you can also sell your units for half of their price back.<br/>
 ![screenshot-11]
 
